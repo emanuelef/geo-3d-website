@@ -33,7 +33,7 @@ function getTooltip({ object }) {
     object &&
     `\
   ${object.name || ""}
-  ${object.minDistance || ""}`
+  ${object.distance || ""}`
   );
 }
 

@@ -3,7 +3,8 @@
     "start": [-0.364, 51.3909, 15],
     "end": [-0.36421, 51.39181, 1151.375],
     "type": "min_distance",
-    "name": "Min Distance A"
+    "name": "Min Distance A",
+    "distance": 1140.994
   },
   {
     "start": [13.4383, 46.8144, 10972.8],
