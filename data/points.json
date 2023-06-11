@@ -1,10 +1,12 @@
 [
   {
     "name": "Point A",
+    "type": "point",
     "coordinates": [-0.343025, 51.443807]
   },
   {
     "name": "Point B",
+    "type": "point",
     "coordinates": [33.631416, -84.371885]
   }
 ]
