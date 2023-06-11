@@ -4,7 +4,7 @@
     "end": [-0.36819, 51.38463, 1219.2],
     "type": "segment",
     "name": "Test A",
-    "distance": 1430.956
+    "distance": "Segment length 1430.956m"
   },
   {
     "start": [13.4383, 46.8144, 10972.8],

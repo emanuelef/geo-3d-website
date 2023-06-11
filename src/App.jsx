@@ -18,8 +18,8 @@ const DATA_URL = {
 };
 
 const INITIAL_VIEW_STATE = {
-  longitude: -0.341004,
-  latitude: 51.477487,
+  longitude: -0.364,
+  latitude: 51.3909,
   zoom: 12,
   minZoom: 10,
   maxZoom: 18,
