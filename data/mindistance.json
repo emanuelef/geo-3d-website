@@ -1,20 +1,20 @@
 [
   {
-    "start": [-0.343025, 51.443807, 15],
+    "start": [-0.343025, 51.443807, 315],
     "end": [-0.343025, 51.443807, 1900],
-    "type": "segment",
+    "type": "min_distance",
     "name": "SAS52H"
   },
   {
     "start": [13.4383, 46.8144, 10972.8],
     "end": [13.4149, 46.8265, 10972.8],
-    "type": "segment",
+    "type": "min_distance",
     "name": "GWI7PT"
   },
   {
     "start": [-0.676, 51.7317, 3070.86],
     "end": [-0.6567, 51.7309, 3025.14],
-    "type": "segment",
+    "type": "min_distance",
     "name": "SHT3P"
   },
   {
